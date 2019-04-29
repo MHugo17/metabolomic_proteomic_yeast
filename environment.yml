@@ -9,13 +9,13 @@ dependencies:
   - flake8-quotes
   - jupyter
   - matplotlib
-  - numpy==1.16.*
+  - numpy==1.16.
   - pandas==0.24.1
   - pytest
   - pytest-mock
   - scipy
   - seaborn
   - sklearn
-  - - torch
+  - torch
   - imageio
   - scikit-image
