@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 #my excludes
-data/
+#data/
 .idea/
 .DS_Store
